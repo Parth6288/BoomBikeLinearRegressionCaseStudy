@@ -4,10 +4,10 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* Bussiness Goal()
+* [Bussiness Goal](#business-goal)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
